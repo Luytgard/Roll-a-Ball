@@ -3,3 +3,5 @@ Dupla João Moura e Sunny
 
 https://drive.google.com/drive/folders/1jbSd4Rv2AFfl-jpapApqoIVHa5-odYk4?usp=drive_link
 link do drive caso o projeto upado no github não abra.
+
+o projeto tem 200mb+ de espaço que contem 14000+ arquivos
